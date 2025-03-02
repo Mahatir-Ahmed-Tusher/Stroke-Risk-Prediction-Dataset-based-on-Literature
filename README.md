@@ -180,8 +180,21 @@ This dataset is ideal for:
 | `age`                  | Integer   | Age (18–90)                               |  
 | `gender`               | String    | Male/Female                               |  
 | `chest_pain`           | Binary    | 1 = Present, 0 = Absent                   |  
-| ... (14 symptoms)      | Binary    |                                           |  
-| `at_risk`              | Binary    | Target for classification                 |  
+| `shortness_of_breath`  | Binary    | 1 = Present, 0 = Absent                   |  
+| `irregular_heartbeat`  | Binary    | 1 = Present, 0 = Absent                   |  
+| `fatigue_weakness`     | Binary    | 1 = Present, 0 = Absent                   |  
+| `dizziness`            | Binary    | 1 = Present, 0 = Absent                   |  
+| `swelling_edema`       | Binary    | 1 = Present, 0 = Absent                   |  
+| `neck_jaw_pain`        | Binary    | 1 = Present, 0 = Absent                   |  
+| `excessive_sweating`   | Binary    | 1 = Present, 0 = Absent                   |  
+| `persistent_cough`     | Binary    | 1 = Present, 0 = Absent                   |  
+| `nausea_vomiting`      | Binary    | 1 = Present, 0 = Absent                   |  
+| `high_blood_pressure`  | Binary    | 1 = Present, 0 = Absent                   |  
+| `chest_discomfort`     | Binary    | 1 = Present, 0 = Absent                   |  
+| `cold_hands_feet`      | Binary    | 1 = Present, 0 = Absent                   |  
+| `snoring_sleep_apnea`  | Binary    | 1 = Present, 0 = Absent                   |  
+| `anxiety_doom`         | Binary    | 1 = Present, 0 = Absent                   |  
+| `at_risk`              | Binary    | Target for classification (1 = At Risk, 0 = Not At Risk) |  
 | `stroke_risk_percentage` | Float   | Target for regression (0–100%)           |  
 
 ---
