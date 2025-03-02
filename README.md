@@ -29,7 +29,9 @@ This dataset is designed for predicting stroke risk using **symptoms**, **demogr
 | **Top Symptoms**       | Hypertension (38%), Shortness of Breath (32%), Chest Pain (28%)            |  
 | **Stroke Risk (%)**    | Range: 5–100% | Mean=49% | Std=28                                  |  
 
-![Age Distribution](age_dist_plot.png) *Age distribution in Version 2 vs. Version 1*  
+*Age distribution in Version 2 vs. Version 1*  
+![Age Distribution Plot](https://github.com/user-attachments/assets/193b938d-6299-4819-aef8-36697a48681f)
+
 
 ---
 ## 🔬 Medical Validity
