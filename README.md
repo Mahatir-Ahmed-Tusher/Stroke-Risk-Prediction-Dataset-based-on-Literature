@@ -221,9 +221,9 @@ This dataset is ideal for:
 ---
 
 ## 🌐 Download and Use  
-- **Download**: [Kaggle Dataset Link](#)  
+- **Download**: [Kaggle Dataset](https://www.kaggle.com/datasets/mahatiratusher/stroke-risk-prediction-dataset-v2/data)  
 - **License**: MIT (Open for research and commercial use).  
-- **Tutorials**: [Jupyter Notebooks](#) for EDA, classification, and regression.  
+- **Tutorials**: [Jupyter Notebooks](https://jupyter.org/) for EDA, classification, and regression.  
 
 ---
 
