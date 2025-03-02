@@ -3,6 +3,8 @@
 **Samples**: 35,000 | **Features**: 16 | **Targets**: 2 (Binary + Regression)  
 
 ---
+Check out a prediction model that was built based on this dataset from [here](https://www.kaggle.com/code/mahatiratusher/stroke-risk-prediction) 
+Also check out the code of this dataset from [here](https://github.com/Mahatir-Ahmed-Tusher/Stroke-Risk-Prediction-Dataset-based-on-Literature/blob/main/Stroke_Risk_Prediction_Dataset_Based_on_Literature.ipynb)
 
 ## 📌 Overview  
 This dataset is designed for predicting stroke risk using **symptoms**, **demographics**, and **medical literature-inspired risk modeling**. Version 2 significantly improves upon [Version 1](https://www.kaggle.com/datasets/mahatiratusher/stroke-risk-prediction-dataset/data) by incorporating **age-dependent symptom probabilities**, **gender-specific risk modifiers**, and **medically validated feature engineering**.  
